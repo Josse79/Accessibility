@@ -1,0 +1,21 @@
+/* Example styling of a h1 element */
+h1 {
+  font-size: 200%;
+  color:seagreen
+}
+em {
+  color: #ff0000
+}
+.special {
+  color:seagreen
+}
+p.special {
+  font-size: 150%;
+}
+li {
+list-style-type: square;
+}
+p.slogan {
+  font-size: 150%;
+  color:slateblue
+}
